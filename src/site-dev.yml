@@ -1,0 +1,6 @@
+$include:
+  - site.yml
+  - site-dev-i18n.yml
+translate-hint: '{value} ({key})'
+context:
+  env: development

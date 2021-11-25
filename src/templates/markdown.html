@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block windowtitle %}{{page.title}}{%endblock%}
+{% block content %}
+    <div class="content markdown" style="max-width: 640px; margin: 0 auto;">
+        {% block article %}{% endblock %}
+    </div>
+{% endblock %}

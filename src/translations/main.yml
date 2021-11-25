@@ -1,0 +1,42 @@
+hp:
+  site-title:
+    _t:
+      de: 1b56550c9ee35c7a
+      en: 1b56550c9ee35c7a
+    de: Kiebitz
+    en: Lapwing
+  translation-note:
+    _t:
+      de: 61cf1a0868a8f0f7
+      en: 61cf1a0868a8f0f7
+    de: >-
+      Diese Website wurde überwiegend automatisch von der [deutschen
+      Version]({url}) übersetzt. Wir entschuldigen uns für eventuelle
+      Übersetzungsfehler.
+    en: >-
+      This website was mostly translated automatically from the
+      [German version]({url}). We apologize for any translation
+      errors.
+languages-link:
+  _t:
+    de: dea3aab41357c671
+    en: dea3aab41357c671
+  de: Sprachauswahl
+  en: Language selection
+not-found:
+  text:
+    _t:
+      de: 3bf9265400f2407f
+      en: 3bf9265400f2407f
+    de: >-
+      Die angeforderte URL existiert leider nicht auf dieser Seite.
+      Wir entschuldigen uns für die Unannehmlichkeiten.
+    en: >-
+      Unfortunately, the requested URL does not exist on this
+      page. We apologize for the inconvenience.
+  title:
+    _t:
+      de: d722ca73221914dd
+      en: d722ca73221914dd
+    de: Nicht gefunden (404)
+    en: Not found (404)

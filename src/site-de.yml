@@ -1,0 +1,23 @@
+# Warning, this is an auto-generated file, do not modify!
+# Modify this file instead: site-all.yml
+pages:
+- hidden: true
+  name: ''
+  navtitle: Wilkommen!
+  src: common/index.html
+  title: Willkommen!
+- name: docs
+  navtitle: Dokumentation
+  slug: docs
+  title: Dokumentation
+  url: /doku
+- name: github
+  navtitle: Github
+  title: Github
+  url: https://github.com/kiebitz-oss
+- name: contact
+  navtitle: Kontakt
+  slug: kontakt
+  src: de/imprint.md
+  title: Kontakt
+title: Kiebitz

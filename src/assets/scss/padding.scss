@@ -1,0 +1,40 @@
+@mixin padding-top-lg {
+    @media(min-width: $desktop){
+        padding-top: 60px;
+    }
+    @media(min-width: $tablet) and (max-width: $desktop){
+        padding-top: 40px;
+    }
+    padding-top: 20px;
+}
+
+@mixin padding-top-xl {
+    @media(min-width: $desktop){
+        padding-top: 120px;
+    }
+    @media(min-width: $tablet) and (max-width: $desktop){
+        padding-top: 40px;
+    }
+    padding-top: 10px;
+}
+
+@mixin padding-bottom-lg {
+    @media(min-width: $desktop){
+        padding-bottom: 60px;
+    }
+    @media(min-width: $tablet) and (max-width: $desktop){
+        padding-bottom: 40px;
+    }
+    padding-bottom: 20px;
+}
+
+
+@mixin padding-bottom-xl {
+    @media(min-width: $tablet) and (max-width: $desktop){
+        padding-bottom: 60px;
+    }
+    @media(min-width: $desktop){
+        padding-bottom: 120px;
+    }
+    padding-bottom: 40px;
+}

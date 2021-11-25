@@ -1,0 +1,132 @@
+lp:
+  download-brochure:
+    _t:
+      de: 3fe8a9d88818cbd3
+      en: 3fe8a9d88818cbd3
+    de: Broschüre herunterladen
+    en: Download brochure
+  feature-1:
+    alt:
+      _t:
+        de: 88126008f93cc02e
+        en: 88126008f93cc02e
+      de: >-
+        Ein Bild, das die einfache Installation und Nutzung von
+        Kiebitz verdeutlicht.
+      en: >-
+        A picture that illustrates the ease of installation and
+        use of Kiebitz.
+    text:
+      _t:
+        de: cf3c58cea97495ae
+        en: cf3c58cea97495ae
+      de: >-
+        Kiebitz ist sehr einfach zu nutzen. Es erfordert keine
+        Installation von Smartphone-Apps für Nutzer und keine
+        komplexen Registrierungsprozesse für Impf-Anbieter. Die
+        Einrichtung dauert weniger als 5 Minuten.
+      en: >-
+        Kiebitz is very easy to use. It requires no smartphone
+        app installation for users and no complex registration
+        processes for vaccination providers. It takes less than
+        5 minutes to set up.
+    title:
+      _t:
+        de: 9b333b473fa114d2
+        en: 9b333b473fa114d2
+      de: >-
+        Sichere, privatsphäre-freundliche Impfterminvermittlung
+        für uns alle
+      en: >-
+        Secure, privacy-friendly vaccination appointment placement
+        for all of us.
+  feature-2:
+    alt:
+      _t:
+        de: 25f8cf8c4254ea4f
+        en: 25f8cf8c4254ea4f
+      de: Ein Bild, das einen Impfpass zeigt.
+      en: A picture showing a vaccination record.
+    text:
+      _t:
+        de: cf17c59444181c8e
+        en: cf17c59444181c8e
+      de: "Kiebitz bietet als Ergänzung zur rein digitalen Nutzung\
+        \ einen Prozess zur assistierten Buchung von Terminen\
+        \ der niemanden ausschließt und die gleichen hohen Privatpshäre-Garantien\
+        \ bietet wie die digitale Terminvermittlung. "
+      en: "Kiebitz offers as a supplement to the purely digital\
+        \ use a process for the assisted booking of appointments\
+        \ that excludes no one and offers the same high privacy\
+        \ guarantees as the digital appointment brokerage. "
+    title:
+      _t:
+        de: c6fd9c7f5494d3e4
+        en: c6fd9c7f5494d3e4
+      de: >-
+        Barrierefreie Nutzung durch Kombination digitaler und
+        analoger Technologien.
+      en: >-
+        Barrier-free use through a combination of digital and
+        analogue technologies.
+  feature-3:
+    alt:
+      _t:
+        de: 4de09e7a2fce81b9
+        en: 4de09e7a2fce81b9
+      de: >-
+        Ein Bild einer durchgestrichenen Überwachungskamera, was
+        die privatsphäre-freundliche Gestaltung von Kiebitz symbolisiert.
+      en: >-
+        A picture of a crossed-out surveillance camera, symbolizing
+        the privacy-friendly design of Kiebitz.
+    text:
+      _t:
+        de: 42854a9acccb7960
+        en: 42854a9acccb7960
+      de: >-
+        Kiebitz reduziert systematisch die Erfassung und Verarbeitung
+        von personenbezogenen Daten und bietet bessere Sicherheits-
+        & Privatsphäre- Garantien als andere Systeme. Eine Nutzung
+        komplett ohne personenbezogene Daten ist ebenfalls möglich.
+        Kiebitz kann zudem dezentral und föderiert betrieben werden.
+      en: >-
+        Kiebitz systematically reduces the collection and processing
+        of personal data and offers better security & privacy
+        guarantees than other systems. A use completely without
+        personal data is also possible. Moreover, Kiebitz can
+        be operated in a decentralized and federated manner.
+    title:
+      _t:
+        de: c20c6143d378fcc6
+        en: c20c6143d378fcc6
+      de: Echtes "Privacy By Design"
+      en: True Privacy By Design
+  main-illustration:
+    alt:
+      _t:
+        de: 7b12a95da371359f
+        en: 7b12a95da371359f
+      de: >-
+        Ein Bild, das die Nutzung von Kiebitz zur Impfvermittlung
+        zeigt.
+      en: >-
+        An image showing the use of Kiebitz for vaccination delivery.
+  teaser:
+    _t:
+      de: 1c2384c7934e7996
+      en: 1c2384c7934e7996
+    de: >-
+      Kiebitz ist eine nicht-kommerzielle, kostenlose und quellenoffene
+      Software-Lösung für barrierefreie und privatsphäre-freundliche
+      Impfterminvermittlung.
+    en: >-
+      Kiebitz is a non-commercial, free and open source software
+      solution for accessible and privacy-friendly immunization
+      appointment scheduling.
+  title:
+    _t:
+      de: ae71533e87bceb24
+      en: ae71533e87bceb24
+    de: Kiebitz!
+    en: Kiebitz!

@@ -1,0 +1,86 @@
+1e1953d92638f6fd:
+  de: >-
+    Kiebitz kann sehr einfach **dezentral** betrieben werden,
+    Daten können **ausfallsicher** und **redundant** in einer
+    **föderierten Infrastruktur** gespeichert werden. Kiebitz
+    implementiert als einziges System zur Terminvermittlung zudem
+    eine **echte Ende-zu-Ende Verschlüsselung** von Daten.
+  en: >-
+    Kiebitz can be very easily operated **decentrally**, data
+    can be stored **fail-safe** and **redundantly** in a **federated
+    infrastructure**. Kiebitz is also the only appointment scheduling
+    system that implements **true end-to-end encryption of** data.
+20164cf57d467b45:
+  de: >-
+    Zudem minimiert Kiebitz systematisch Möglichkeiten zur Erfassung
+    und Auswertung von Meta-Daten, die in Systemen zur Terminvermittlung
+    neben den eigentlich erhobenen Daten ebenfalls ein erhebliches
+    Privatsphäre-Risiko darstellen. Wir sind überzeugt, dass Kiebitz
+    die **datenschutzfreundlichste Software zur Impfterminvermittlung**
+    ist. Sie erfüllt zudem alle gesetzlichen Anforderungen an
+    den Datenschutz und Datensicherheit nach DSGVO und sollte
+    daher gegenüber kommerziell betriebenen Systemen bevorzugt
+    werden.
+  en: >-
+    In addition, Kiebitz systematically minimizes opportunities
+    to collect and analyze meta-data, which also poses a significant
+    privacy risk in appointment scheduling systems in addition
+    to the actual data collected. We are convinced that Kiebitz
+    is the **most privacy-friendly vaccination appointment scheduling
+    software**. It also meets all legal requirements for data
+    protection and data security according to DSGVO and should
+    therefore be preferred over commercially operated systems.
+324c2f2d70b02c95:
+  de: >-
+    Eine anlasslose Entschlüsselung personenbezogener Daten ist
+    bei Kiebitz nicht möglich, die Kontrolle über die Daten liegt
+    vielmehr allein bei betroffenen Personen und impfenden Ärzten
+    [^1].
+  en: >-
+    An unprovoked decryption of personal data is not possible
+    with Kiebitz, but the control over the data lies solely with
+    data subjects and vaccinating physicians [^1].
+4222f2d33eed1ada:
+  de: >-
+    Schauen Sie doch in [unsere Dokumentation]({% if lang == 'en'%}/en/docs{%
+    else %}/doku{%endif%}) und auf unsere [Github-Seite](https://github.com/kiebitz-oss)
+    um mehr über den Einsatz von Kiebitz zu erfahren. Oder [kontaktieren
+    Sie uns](mailto:kontakt@kiebitz.eu) einfach!
+  en: >-
+    Check out [our documentation]({% if lang == 'en'%}/en/docs{%
+    else %}/doku{%endif%}) and our [Github page](https://github.com/kiebitz-oss)
+    to learn more about using Kiebitz. Or just [contact us](mailto:kontakt@kiebitz.eu)
+    !
+a619b3fdc3505553:
+  de: '# Warum Kiebitz?'
+  en: '# Why lapwing?'
+cb539409ae542a3f:
+  de: "Kiebitz ist ein **quelloffenes**, **frei nutzbares** Software-System\
+    \ für Impfterminvermittlung. Es wurde nach Prinzipien des\
+    \ **Privacy By Design** gestaltet und minimiert systematisch\
+    \ Privatshäre- & Sicherheits-Risiken für Nutzer des Systems.\
+    \ Die Software schützt auch Betreiber von Ortschaften und\
+    \ verhindert technisch, dass die zur Terminvermittlung erhobenen\
+    \ Daten anderweitig eingesetzt werden können. "
+  en: "Kiebitz is an **open source**, **free-to-use** software\
+    \ system for vaccination appointment scheduling. It is designed\
+    \ according to **Privacy By Design** principles and systematically\
+    \ minimizes privacy & security risks for users of the system.\
+    \ The software also protects operators of localities and technically\
+    \ prevents data collected for appointment scheduling from\
+    \ being used elsewhere. "
+e3b0c44298fc1c14:
+  de: ''
+  en: ''
+e6e85abb14681176:
+  de: '## Weitere Informationen'
+  en: '## Further information'
+f5e3ca988857da49:
+  de: >2-
+     Terminvermittlung sollte kein Geschäftsmodell sein. Software
+    für die Terminvermittlung sollte **gemeinwohl-orientiert**
+    gestaltet und **ohne kommerzielle Interessen** betrieben werden.
+  en: >2-
+     Appointment brokering should not be a business model. Appointment
+    scheduling software should be designed for the **common good**
+    and operated **without commercial interests**.

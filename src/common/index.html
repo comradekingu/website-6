@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="section first {%block section_class%}{%endblock%}">
+
+	<div class="columns is-vcentered first">
+		<div class="column is-6">
+			<h1 class="title">{{'lp.title'|translate}}</h1>
+			<p class="teaser">
+				{{'lp.teaser'|translate}}
+			</p>
+			{% if lang == "de" and False %}
+			<p>
+				<a href="{{'kiebitz.pdf'|file}}" class="button is-download">{{'lp.download-brochure'|translate}}</a>
+			</p>
+			{% endif %}
+		</div>
+		<div class="column is-6">
+			{{'images/zeplin/landingpage/illustration-headline.png'|picture(class="img-fluid",alt="lp.main-illustration.alt"|translate)}}
+		</div>
+	</div>
+
+	<div class="columns is-vcentered is-mobile-reversed">
+		<div class="column is-4">
+			{{'images/zeplin/landingpage/illustration-login.png'|picture(class="img-fluid",alt="lp.feature-1.alt"|translate)}}
+		</div>
+		<div class="column is-offset-2 is-6">
+			<h2 class="subtitle">{{'lp.feature-1.title'|translate}}</h2>
+			<p>
+				{{'lp.feature-1.text'|translate}}
+			</p>
+		</div>
+	</div>
+
+	<div class="columns is-vcentered">
+		<div class="column is-6">
+			<h2 class="subtitle">{{'lp.feature-2.title'|translate}}</h2>
+			<p>
+				{{'lp.feature-2.text'|translate}}
+			</p>
+		</div>
+		<div class="column is-offset-2 is-4">
+			{{'images/zeplin/landingpage/illustration-codebookopen.png'|picture(class="img-fluid",alt="lp.feature-2.alt"|translate)}}
+		</div>
+	</div>
+
+	<div class="columns is-last is-vcentered is-mobile-reversed">
+		<div class="column is-4">
+			{{'images/zeplin/landingpage/illustration-camera.png'|picture(class="img-fluid",alt="lp.feature-3.alt"|translate)}}
+		</div>
+		<div class="column is-offset-2 is-6">
+			<h2 class="subtitle">{{'lp.feature-3.title'|translate}}</h2>
+			<p>
+				{{'lp.feature-3.text'|translate}}
+			</p>
+		</div>
+	</div>
+
+	<div class="paper">
+	    <div class="paper-content is-light">
+			<div class="content" style="max-width:640px; margin: 0 auto;">
+			{% filter markdown -%}
+				{% include "{}/index.md".format(lang) %}
+			{% endfilter %}
+			</div>
+	    </div>
+	</div>
+
+</section>
+{% endblock %}
+

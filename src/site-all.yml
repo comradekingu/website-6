@@ -1,0 +1,24 @@
+title: Kiebitz
+pages:
+  - src|f: "common/index.html"
+    title|t: Willkommen!
+    navtitle|t: Wilkommen!
+    hidden: true
+    name: ''
+  - name: 'docs'
+    title|t: Dokumentation
+    navtitle|t: Dokumentation
+    slug: docs
+    url|ld: # this is a language dictionary
+      en: /en/docs
+      de: /doku
+      default: /doku
+  - name: github
+    title|t: Github
+    navtitle|t: Github
+    url: https://github.com/kiebitz-oss
+  - name: contact
+    title|t: Kontakt
+    slug||slugify: Kontakt
+    navtitle|t: Kontakt
+    src|f|exists?: "{target_language}/imprint.md"
