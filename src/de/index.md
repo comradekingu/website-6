@@ -2,7 +2,7 @@
 
  Terminvermittlung sollte kein Geschäftsmodell sein. Software für die Terminvermittlung sollte **gemeinwohl-orientiert** gestaltet und **ohne kommerzielle Interessen** betrieben werden.
 
-Kiebitz ist ein **quelloffenes**, **frei nutzbares** Software-System für Impfterminvermittlung. Es wurde nach Prinzipien des **Privacy By Design** gestaltet und minimiert systematisch Privatshäre- & Sicherheits-Risiken für Nutzer des Systems. Die Software schützt auch Betreiber von Ortschaften und verhindert technisch, dass die zur Terminvermittlung erhobenen Daten anderweitig eingesetzt werden können. 
+Kiebitz ist ein **quelloffenes**, **frei nutzbares** Software-System für Impfterminvermittlung. Es wurde nach Prinzipien des **Privacy By Design** gestaltet und minimiert systematisch Privatsphäre- & Sicherheits-Risiken für Nutzer des Systems. Die Software schützt auch Betreiber von Ortschaften und verhindert technisch, dass die zur Terminvermittlung erhobenen Daten anderweitig eingesetzt werden können.
 
 Kiebitz kann sehr einfach **dezentral** betrieben werden, Daten können **ausfallsicher** und **redundant** in einer **föderierten Infrastruktur** gespeichert werden. Kiebitz implementiert als einziges System zur Terminvermittlung zudem eine **echte Ende-zu-Ende Verschlüsselung** von Daten.
 Eine anlasslose Entschlüsselung personenbezogener Daten ist bei Kiebitz nicht möglich, die Kontrolle über die Daten liegt vielmehr allein bei betroffenen Personen und impfenden Ärzten [^1].
